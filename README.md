@@ -10,8 +10,6 @@ Desa Cantik Content Management System based on Wordpress.
   git clone https://github.com/purnamaanaking/cantik-cms.git
 ```
 
-- Create your database
-
 - Go to the project directory
 
 ```bash
@@ -23,6 +21,10 @@ Desa Cantik Content Management System based on Wordpress.
 ```bash
   cp wp-config-sample.php wp-config.php
 ```
+
+- Create your database
+
+- Import or execute SQL query from **cantik_cms.sql** file on root directory.
 
 - Set your **DB_HOST**, **DB_NAME**, **DB_USER**, **DB_PASSWORD** on your **wp-config.php** file.
 

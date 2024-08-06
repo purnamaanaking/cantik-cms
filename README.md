@@ -26,4 +26,4 @@ Desa Cantik Content Management System based on Wordpress.
 
 - Set your **DB_HOST**, **DB_NAME**, **DB_USER**, **DB_PASSWORD** on your **wp-config.php** file.
 
-- Access http://localhost from your browser.
+- Access http://localhost/cantik-cms from your browser.

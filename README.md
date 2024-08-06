@@ -4,11 +4,13 @@ Desa Cantik Content Management System based on Wordpress.
 
 ## Run Locally
 
-- Clone the project
+- Clone the project on your **htdocs** folder (XAMPP)
 
 ```bash
   git clone https://github.com/purnamaanaking/cantik-cms.git
 ```
+
+- Create your database
 
 - Go to the project directory
 
@@ -23,3 +25,5 @@ Desa Cantik Content Management System based on Wordpress.
 ```
 
 - Set your **DB_HOST**, **DB_NAME**, **DB_USER**, **DB_PASSWORD** on your **wp-config.php** file.
+
+- Access http://localhost from your browser.
